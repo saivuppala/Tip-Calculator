@@ -4,7 +4,7 @@
 
 Submitted by: **Sai Vuppala**
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## User Stories
 
@@ -34,6 +34,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+It was my first time developing with iOS, so it took me a while to get used to Xcode. Also sometimes my app would not run on
+newer iphones so that was a challenge as well.
 
 ## License
 
